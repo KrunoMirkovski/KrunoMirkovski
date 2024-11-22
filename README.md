@@ -6,7 +6,7 @@ I also design with tools like Figma or Sketch and bring projects to life on plat
 
 You're **100% free** to use my projects for whatever you want.
 
-Skills: / REACT / NODE / JS / HTML / CSS/ MONGO / FIGMA / WEBFLOW
+Skills: / REACT / NODE / JS / HTML / CSS/ MONGODB / FIGMA / WEBFLOW
 
 
 
